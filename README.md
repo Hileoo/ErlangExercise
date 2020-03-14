@@ -15,5 +15,4 @@ example:
 2> Hanoi2:display_towers(T).  
 tower1: [5,4,3,2,1]  
 tower2: []  
-tower3: []  
---------------------
+tower3: []
